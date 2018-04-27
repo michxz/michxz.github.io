@@ -1895,36 +1895,16 @@ body {
     position: relative;
   }
 }
-.cid-qQlngXpqEe {
-  background: #ffffff;
-}
-.cid-qQlngXpqEe .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qQlngXpqEe .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qQlngXpqEe figcaption {
-  position: relative;
-}
-.cid-qQlngXpqEe figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qQlngXpqEe .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qQlnmPGLeG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #c1c1c1;
+  background-color: #b2ccd2;
 }
 .cid-qQlnmPGLeG .mbr-text {
   color: #767676;
+}
+.cid-qQlnmPGLeG .mbr-text DIV {
+  color: #232323;
 }
 .cid-qOpZ7Ox3Pr {
   padding-top: 60px;
